@@ -7,7 +7,7 @@ export const siteConfig = {
     email: "xcurrier@gmail.com",
   },
   aboutMe:
-    "Bilingual Peruvian-American educator with over 12 years of experience teaching across all levels, from preschool to secondary, in Peru and the United States. Specialized in IB PYP (International Baccalaureate Primary Years Programme), English language support, and special education. Google Certified Educator Level 1 with diplomas in Educational Management, Educational Coaching, and Singapore Math Method. Passionate about fostering student growth through creativity, empathy, and innovative teaching strategies.",
+    "Bilingual Peruvian-American educator with over <strong>12 years of experience</strong> teaching across all levels, from preschool to secondary, in Peru and the United States. Specialized in <strong>IB PYP</strong> (International Baccalaureate Primary Years Programme), English language support, and <strong>special education</strong>. <strong>Google Certified Educator Level 1</strong> with diplomas in Educational Management, Educational Coaching, and Singapore Math Method. Passionate about fostering student growth through creativity, empathy, and innovative teaching strategies.",
   skills: [
     "IB PYP",
     "English Language Teaching",
@@ -26,21 +26,21 @@ export const siteConfig = {
     {
       name: "IB PYP Homeroom Teaching",
       description:
-        "Over 12 years as PYP Homeroom Teacher at Euroamerican College, an IB World School, guiding students through inquiry-based learning across grades 2-8.",
+        "Over <strong>12 years</strong> as PYP Homeroom Teacher at <strong>Euroamerican College</strong>, an <strong>IB World School</strong>, guiding students through inquiry-based learning across grades 2-8.",
       link: "",
       skills: ["IB PYP", "Inquiry-Based Learning", "Student Development"],
     },
     {
       name: "English Language Support Program",
       description:
-        "Currently serving as English Language Support Teacher in primary, helping students develop English proficiency through targeted interventions and differentiated instruction.",
+        "Currently serving as <strong>English Language Support Teacher</strong> in primary, helping students develop English proficiency through <strong>targeted interventions</strong> and differentiated instruction.",
       link: "",
       skills: ["ESL", "Differentiated Instruction", "Assessment"],
     },
     {
       name: "Behavior Intervention - Special Education (USA)",
       description:
-        "Worked as Behavior Intervention Specialist at Total Education Solutions and The Help Group in California, providing one-on-one support to children with autism and developmental disabilities.",
+        "Worked as <strong>Behavior Intervention Specialist</strong> at <strong>Total Education Solutions</strong> and <strong>The Help Group</strong> in California, providing one-on-one support to children with autism and developmental disabilities.",
       link: "",
       skills: ["Special Education", "ABA", "Discrete Trial"],
     },
@@ -51,10 +51,10 @@ export const siteConfig = {
       title: "English Language Support Teacher / PYP Homeroom Teacher",
       dateRange: "2013 - Present",
       bullets: [
-        "12+ years as PYP Homeroom Teacher across grades 2, 3, 4, 7, and 8",
-        "Currently serving as English Language Support Teacher in primary level",
-        "Prepared students for FCE (First Certificate in English) examinations",
-        "Implemented inquiry-based learning aligned with IB PYP framework",
+        "<strong>12+ years</strong> as <strong>PYP Homeroom Teacher</strong> across grades 2, 3, 4, 7, and 8",
+        "Currently serving as <strong>English Language Support Teacher</strong> in primary level",
+        "Prepared students for <strong>FCE</strong> (First Certificate in English) examinations",
+        "Implemented <strong>inquiry-based learning</strong> aligned with <strong>IB PYP</strong> framework",
       ],
     },
     {
@@ -62,8 +62,8 @@ export const siteConfig = {
       title: "English, Science & Maths Teacher",
       dateRange: "Prior to 2013",
       bullets: [
-        "Taught English, Science and Maths in grades 1-3 (primary) and 7-8 (secondary)",
-        "Prepared students in FCE program",
+        "Taught <strong>English, Science and Maths</strong> in grades 1-3 (primary) and 7-8 (secondary)",
+        "Prepared students in <strong>FCE program</strong>",
       ],
     },
     {
@@ -71,7 +71,7 @@ export const siteConfig = {
       title: "Behavior Intervention Specialist",
       dateRange: "Jul 2004 - Sep 2006",
       bullets: [
-        "One-on-one behavioral support using Discrete Trial, Floor Time, and Functional Communication Training",
+        "One-on-one behavioral support using <strong>Discrete Trial</strong>, <strong>Floor Time</strong>, and <strong>Functional Communication Training</strong>",
         "Assisted clients in developing communication, social, play, motor, and self-management skills",
         "Collaborated with parents, teachers, and allied specialists",
       ],
@@ -81,7 +81,7 @@ export const siteConfig = {
       title: "Behavior Intervention Specialist",
       dateRange: "Feb 2003 - Jul 2004",
       bullets: [
-        "Individualized education for children with autism and Asperger's in therapeutic environment",
+        "Individualized education for children with <strong>autism and Asperger's</strong> in therapeutic environment",
         "Provided one-on-one support fostering socialization and communicative skills",
       ],
     },
@@ -98,11 +98,11 @@ export const siteConfig = {
       degree: "Diplomas & Certifications",
       dateRange: "",
       achievements: [
-        "Google Certified Educator Level 1",
-        "IB PYP Program Level II Training",
-        "Diploma in Educational Management",
-        "Diploma in Educational Coaching",
-        "Diploma in Singapore Math Method",
+        "<strong>Google Certified Educator</strong> Level 1",
+        "<strong>IB PYP</strong> Program Level II Training",
+        "Diploma in <strong>Educational Management</strong>",
+        "Diploma in <strong>Educational Coaching</strong>",
+        "Diploma in <strong>Singapore Math Method</strong>",
       ],
     },
   ],
