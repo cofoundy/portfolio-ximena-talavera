@@ -21,6 +21,7 @@ export const siteConfig = {
     "Curriculum Development",
     "Behavior Intervention",
     "Student Assessment",
+    "TOEFL iBT 112",
   ],
   projects: [
     {
@@ -83,6 +84,34 @@ export const siteConfig = {
       bullets: [
         "Individualized education for children with <strong>autism and Asperger's</strong> in therapeutic environment",
         "Provided one-on-one support fostering socialization and communicative skills",
+      ],
+    },
+    {
+      company: "Visiting Angels, Redondo Beach, California",
+      title: "Franchise Owner",
+      dateRange: "Sep 2001 - Dec 2003",
+      bullets: [
+        "<strong>Franchise owner</strong> of non-medical senior homecare agency serving elderly adults across South Bay, California",
+        "Managed <strong>marketing, accounting (payroll & invoicing), and client services</strong>",
+        "Conducted home safety evaluations before caregiver placement",
+      ],
+    },
+    {
+      company: "Club Z In-Home Tutoring Services, California",
+      title: "Tutor (Pre-K through Adult, ADD/Autistic)",
+      dateRange: "Oct 2005 - Jul 2007",
+      bullets: [
+        "One-on-one tutoring in <strong>English, Science, Reading & Writing</strong> for students of all ages",
+        "Personalized methods for children with <strong>ADD and Autism</strong>",
+      ],
+    },
+    {
+      company: "Little Home Pre-School / Little Tiles / The Little Bee, Lima",
+      title: "Pre-School Teacher",
+      dateRange: "1997 - 2008",
+      bullets: [
+        "Taught classes of <strong>2-4 year olds</strong> across three Lima preschools",
+        "Developed early math, science, speech, motor skills, and English instruction",
       ],
     },
   ],
